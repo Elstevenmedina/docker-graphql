@@ -31,7 +31,7 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push elstevenmedina/docker-graphql:0.0.2 .
+        docker push elstevenmedina/docker-graphql:0.0.2
 
   
     
